@@ -28,7 +28,7 @@ const data = [
 export default function Home() {
     return (
         <main className="flex flex-col gap-20 px-6 py-10 bg-zinc-950 text-zinc-100 font-mono">
-            {/* Hero */}
+
             <section className="text-center space-y-3">
                 <h1 className="text-4xl md:text-5xl font-bold text-blue-500">
                     Amja Semndiri Corporation.
@@ -141,8 +141,8 @@ export default function Home() {
             </section>
 
 
-            <p>
-                secrets are here: <span className="text-zinc-950 text-xs">rebecca</span>
+            <p className="text-xs">
+                secrets are here: <span className="text-zinc-950">rebecca</span>
             </p>
         </main>
     );
