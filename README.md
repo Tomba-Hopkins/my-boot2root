@@ -1,7 +1,8 @@
 # 1 - My Nasgor (Linux)
 ## Desc
 ini mesin pertamaku, vuln di login page, secret dir, ftp sebagai foothold dan privesc sudo misconfig
-dengan teka teki di dalamnya layaknya puzzle
+dengan teka teki di dalamnya layaknya puzzle, mengambil tema seorang chef nasi goreng 
+*note: tidak kepikiran membuat readme saat di mesin pertama ini jadinya perlu di remake nantinya
 ## Tech Stack
 - reactJS (front end)
 - go lang (back end)
@@ -13,7 +14,8 @@ dengan teka teki di dalamnya layaknya puzzle
 
 # 2 - Amja Semndiri (Linux)
 ## Desc
-mesin ke 2 ku, dengan CVE-2025-29927 sebagai foothold dan ada privesc sudo misconfig
+mesin ke 2 ku, dengan CVE-2025-29927 sebagai foothold dan ada privesc sudo misconfig, mengambil tema
+corporation bernama amja semndiri
 
 ## Tech Stack
 - nextJS
@@ -24,7 +26,9 @@ mesin ke 2 ku, dengan CVE-2025-29927 sebagai foothold dan ada privesc sudo misco
 
 # 3 - Stickers Collection (Linux)
 ## Desc
-mesin ke 3 ku, dengan CVE-2025-64459 sebagai foothold dan ada privesc cronjob
+mesin ke 3 ku, dengan CVE-2025-64459 sebagai foothold dan ada privesc cronjob, 
+mengambil tema seorang yang suka mengkoleksi stiker2 wangsafnya
+
 
 ## Tech Stack
 - django
@@ -35,7 +39,8 @@ mesin ke 3 ku, dengan CVE-2025-64459 sebagai foothold dan ada privesc cronjob
 
 # 4 - Karbit Enjoyer (Linux)
 ## Desc
-mesin ke 4 ku, dengan CVE-2025-55182 sebagai foothold dan ada privesc sudo misconfig
+mesin ke 4 ku, dengan CVE-2025-55182 sebagai foothold dan ada privesc sudo misconfig,
+mengambil tema seorang yang suka mengkoleksi karakter2 waifu nya dalam game maupun anime
 
 ## Tech Stack
 - nextJS
